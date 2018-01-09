@@ -1,0 +1,246 @@
+h1 {
+  color: tomato;
+}
+
+
+.listItem{
+  display: inline-flex;
+  width: 90%;
+  margin-left: 50px;
+}
+
+
+.item{
+      flex: 50%;
+}
+
+.navbar{
+  background-color: tomato;
+position: fixed;
+width: 100%;
+z-index: 1000
+}
+
+
+body{
+      background-color: transparent;
+}
+
+
+.loginForm{
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  outline: none;
+}
+
+.login-form{
+  padding-top: 15%;
+    margin: auto;
+    width: 15%;
+}
+
+.adduser-form{
+  padding-top: 3%;
+    margin: auto;
+    width: 15%;
+}
+
+.sideBarHead{
+  width: 13%;
+height: 100vh;
+background-color: #fdd5a6;
+position: fixed;
+}
+
+.sideBarUl{
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+.sideBarli{
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.sideBarli.selected {
+    font-weight: bold;
+}
+
+.cqInput{
+  margin-top: 20%;
+    height: 40px;
+    font-size: 20px;
+    width: 1000px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black;
+    margin-left: 25%;
+}
+
+.rqButton{
+  font-size: 25px;
+    cursor: pointer;
+    border: 0;
+    background: transparent;
+    margin-left: 20px;
+        font-weight: bolder;
+}
+
+.nav-link{
+      font-weight: bolder;
+}
+
+.cqButton{
+  margin-top: 60px;
+  margin-left: 42%;
+  font-size: 20px;
+  cursor: pointer;
+  border: 0;
+  position: absolute;
+  background: transparent;
+      font-weight: bolder;
+
+}
+
+.mqButton{
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    border: 0;
+    background: transparent;
+        font-weight: bolder;
+}
+
+.cqInputCheck{
+  -webkit-appearance: checkbox ;
+  box-sizing: border-box;
+  margin-right: 5px;
+}
+
+.cqCheck{
+  margin-left: 60%;
+  margin-top: 30px;
+      display: -webkit-inline-box;
+}
+
+.cqTime{
+  margin-left: 67%;
+margin-top: 40px;
+}
+
+.ant-row{
+  margin-top: 5px
+}
+
+
+.ant-table-wrapper{
+  // width:400px;
+  margin:auto
+}
+
+.ant-table table{
+  border-collapse: collapse !important;
+  background-color: #9ed8da
+}
+
+.ant-card-head{
+  background-color: aliceblue
+}
+
+.ant-card-body{
+  background-color: #9ed8da;
+  // display: inline-flex
+}
+
+.antCardNormal{
+  cursor: pointer;
+}
+
+.antCardBOx{
+
+}
+
+.navbar-brand{
+      font-weight: bold;
+}
+
+
+.ReactTags__tag{
+  border: 1px solid #ddd;
+  background: #eee;
+  font-size: 12px;
+  display: inline-block;
+  padding: 5px;
+  margin: 0 5px;
+  cursor: move;
+  border-radius: 2px;
+}
+
+.ReactTags__tagInputField{
+  height: 31px;
+  margin: 0;
+  font-size: 12px;
+  width: 100%;
+  border: 1px solid #eee;
+}
+
+.ReactTags__tagInput{
+  width: 100px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+
+.sqInput{
+  border: 0;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 39%;
+    width: 300px;
+    outline: 0;
+}
+
+.modalList{
+  border: 1px solid ;
+    width: 280px;
+    margin-top: 5px;
+    overflow: hidden;
+    height: 150px;
+    overflow-y: scroll;
+    border-radius: 4px;
+}
+
+
+.surveyCard{
+height:200px;
+ width: 170px;
+ margin-top:20px;
+  border:0.3px solid;
+  margin-left:50px;
+  cursor:pointer;
+  background:#9ed8da;
+  display: inline-table;
+}
+
+
+.surveyCardhead{
+  text-align:center;
+  display:block;
+  font-size:20px;
+  margin-top:40px;
+}
+
+.surveyCardfoot{
+  display:inline-block;
+  margin-top:30%;
+  margin-left:30px;
+}
+
+.surveyCardfoot1{
+  margin-left:50px;
+}

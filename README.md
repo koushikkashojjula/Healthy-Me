@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kkashojj-proj/Healthy-Me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+=======
+HW4
+=====================
+
+Install the dependencies and start the server.
+npm install
+
+Build Webpack and start Server(port 3000) (User mode)
+npm run start:webpackprodrun && npm run start
+
+Build Webpack and start Server(port 3000) (Dev mode)
+Terminal1: npm run start:webpack , Terminal2: npm run start
+
+application url: http://ec2-34-213-60-87.us-west-2.compute.amazonaws.com:3000/
+
+>>>>>>> Stashed changes
