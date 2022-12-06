@@ -50,7 +50,7 @@
     "node-schedule": "^1.2.5",
     "nodemon": "^1.12.1",
     "pushbots": "0.0.4",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "rc-slider": "^8.5.0",
     "rc-time-picker": "^3.1.0",
     "rc-tooltip": "^3.7.0",
